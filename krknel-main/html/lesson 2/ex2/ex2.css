@@ -1,0 +1,120 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+/*uber button*/
+
+.uber-button{
+    background-color: black;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    margin-left:10px ;
+    margin-top: 10px;
+}
+
+/*amazon button*/
+.amazon-button{
+    background-color: rgb(255,216,20);
+    padding: 8px 45px ;
+    border: none;
+    border-radius: 30px;
+    margin-top: 10px;
+    margin-left:10px ;
+}
+
+/*Github button*/
+
+.github-button{
+    margin-top: 10px;
+    padding: 10px 20px;
+    color: white;
+    background-color: rgb(46, 164, 79);
+    border: none;
+    border-radius: 10px;
+    margin-left:10px ;
+    font-weight: bold;
+}
+
+/*Bootstrap button*/
+
+.bootstrap-button{
+    background-color: rgb(121, 82, 179);
+    color:white ;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    margin-left:10px ;
+    margin-top: 10px;
+}
+
+.bootstrap-button2{
+    background-color: white;
+    color: rgb(108, 117, 125);
+    padding:10px 20px;
+    margin-left: 10px;
+    border:1px solid rgb(108, 117, 125);
+    border-radius: 5px
+}
+
+/*linkedin button*/
+
+.link-button{
+    margin-top: 10px;
+    margin-left: 10px;
+    padding: 10px 20px;
+    background-color: rgb(10, 102, 194);
+    color: white;
+    border:none;
+    border-radius: 30px;
+
+}
+
+.link-button2{
+    margin-left: 10px;
+    padding: 10px 20px;
+    color: rgb(10, 102, 194);
+    background-color: white;
+    border: 1px solid rgb(10, 102, 194) ;
+    border-radius: 30px;
+    font-weight: bold;
+}
+
+/*2f*/
+
+.amazon-full{
+    color: rgb(0, 113, 133);
+    text-decoration: underline;
+    display: block;
+    margin: 10px;
+}
+
+h1{
+    text-transform: capitalize;
+    margin: 10px;
+    font-weight: 800;
+}
+.p1{
+  color: rgb(0, 118, 0);
+ margin: 10px;
+}
+.p2{
+    margin: 10px;
+}
+
+.cart{
+    background-color: rgb(255, 216, 20);
+    padding: 10px 15px;
+    margin: 10px;
+    border-radius: 30px;
+    border: none;
+}
+
+.buy{
+    background-color: rgb(255,164,28);
+    border: none;
+    border-radius: 30px;
+    padding: 10px 15px;
+}

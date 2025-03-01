@@ -1,0 +1,122 @@
+/*5a*/
+.tahoma{
+font-family: Tahoma;
+font-size: 20px;
+}
+/*5b*/
+.vernagir{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    line-height: 5px;
+    font-weight:bold;
+}
+.color{
+    font-style:italic;
+    color: rgb(166, 17, 17);
+    font-size: 15px;
+}
+/*5c*/
+.verdana{
+    font-family: Verdana;
+    font-size: 15px;
+    line-height: 5px;
+  .bac{
+    color: gray;
+    font-size: 13px;
+    font-weight: 300;
+  }
+}
+.course{
+    width: 240px;
+    font-weight: 500;
+
+}
+.get{
+    background-color: green;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    padding: 10px 15px;
+}
+
+/*5d*/
+.shop{
+    font-family: Arial;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
+.p-shop{
+    font-family: arial;
+    font-size: 13px;
+    text-align: center;
+    font-weight: 600;
+}
+a{
+    display: block;
+    margin-top:10px ;
+    color: rgb(123, 179, 228);
+    text-decoration: none;
+}
+
+/* 5e*/
+.new{
+    color: rgb(255, 115, 0);
+    text-align: center;
+ font-size: 12px;
+ font-family: arial;
+ font-weight: bold;
+}
+.Mac{
+    font-family: arial;
+    font-weight: bold;
+    text-align: center;
+
+}
+.sup{
+    font-family: arial;
+    text-align: center;
+}
+.from{
+    font-size: 12px;
+    text-align: center;
+    font-family: arial;
+  display: block;
+}
+.buy{
+    background-color: rgb(0, 106, 255);
+    color: white;
+    border-radius: 20px;
+    padding: 10px 15px;
+    border: none;
+    display: block;
+    margin: 10px auto;
+
+}
+
+/*5f*/
+
+.mony{
+    font-size: 25px;
+    font-weight: 500;
+    font-family: arial;
+}
+.usd{
+    font-size: 15px;
+    color: rgb(103, 102, 102);
+    font-weight: 500;
+    font-family: arial;
+}
+.tod{
+ color: rgb(3, 94, 12);
+ font-family: arial;
+ font-weight: 500;
+}
+.aft{
+    color: gray;
+    font-family: arial;
+    font-weight: 600;
+}
+.tok{
+    color:rgb(170, 28, 28);
+}

@@ -13,6 +13,10 @@
     padding: 10px 20px;
     margin-left:10px ;
     margin-top: 10px;
+    transition: 1s;
+}
+.uber-button:hover{
+    opacity: 0.8;
 }
 
 /*amazon button*/
@@ -23,8 +27,12 @@
     border-radius: 30px;
     margin-top: 10px;
     margin-left:10px ;
+    transition: 1.2s;
 }
 
+.amazon-button:hover{
+    background-color: rgb(207, 173, 0);
+}
 /*Github button*/
 
 .github-button{
@@ -36,6 +44,11 @@
     border-radius: 10px;
     margin-left:10px ;
     font-weight: bold;
+    transition: 1s;
+}
+
+.github-button:hover{
+    box-shadow:5px 5px 10px rgba(0, 0, 0, 0.298) ;
 }
 
 /*Bootstrap button*/
@@ -49,6 +62,9 @@
     margin-left:10px ;
     margin-top: 10px;
 }
+.bootstrap-button:hover{
+    background-color: rgb(54, 31, 87);
+}
 
 .bootstrap-button2{
     background-color: white;
@@ -57,6 +73,10 @@
     margin-left: 10px;
     border:1px solid rgb(108, 117, 125);
     border-radius: 5px
+}
+.bootstrap-button2:hover{
+    background-color: rgb(108, 117, 125);
+    color: white;
 }
 
 /*linkedin button*/
@@ -69,7 +89,11 @@
     color: white;
     border:none;
     border-radius: 30px;
+    transition: 1s;
 
+}
+.link-button:hover{
+    background-color: rgb(19, 70, 121);
 }
 
 .link-button2{
@@ -81,6 +105,10 @@
     border-radius: 30px;
     font-weight: bold;
 }
+.link-button2:hover{
+    background-color: rgb(205, 224, 243);
+    border-width: 2px;
+}
 
 /*2f*/
 
@@ -89,6 +117,9 @@
     text-decoration: underline;
     display: block;
     margin: 10px;
+}
+.amazon-full{
+    color: orange;
 }
 
 h1{
@@ -110,11 +141,26 @@ h1{
     margin: 10px;
     border-radius: 30px;
     border: none;
+    
+}
+.cart:hover{
+    background-color: rgb(199, 168, 8);
+}
+.cart:active{
+    opacity: 0.5;
+    cursor: pointer;
 }
 
 .buy{
     background-color: rgb(255,164,28);
     border: none;
-    border-radius: 30px;
-    padding: 10px 15px;
+    border-radius: 30px;                                             
+    padding: 10px 30px;
+    cursor: pointer;
+}
+.buy:hover{
+    background-color: rgb(196, 118, 0);
+}
+.buy:active{
+    opacity: 0.5;
 }

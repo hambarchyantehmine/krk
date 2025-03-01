@@ -1,0 +1,32 @@
+*{
+    margin-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+img{
+    height: 16px;
+    width: 24px;
+}
+h1{
+    
+    font-size: 18px;
+}
+p{
+    color: rgb(81, 81, 81);
+  font-size: 15px;
+  line-height: 22px;
+  width: 290px;
+}
+button{
+    background-color:rgb(227, 65, 64);
+    border: none;
+    padding:15px 20px ;
+    color: white;
+}
+a{
+    color: white;
+    cursor: pointer;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration:underline;
+}

@@ -1,0 +1,59 @@
+/*4h*/
+button{
+    padding-top: 5px ;
+    padding-bottom:5px ;
+    margin-right: 10px;
+}
+a{
+    margin-right:10px;
+    color: purple;
+}
+
+/*4i*/
+.stretch{
+    color:white;
+    background-color:green ;
+    border: none;
+    margin-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    cursor: pointer;
+    transition: 1s;
+}
+.stretch:hover{
+    padding: 10px 30px;
+}
+
+/*4j*/
+.shadow{
+    color:white;
+    background-color:green ;
+    border: none;
+    margin-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    cursor: pointer;
+    box-shadow: 3px 5px 5px rgba(97, 97, 97, 0.533);
+    transition: 0.5s;
+}
+.shadow:active{
+    box-shadow: none;
+}
+
+/*4k*/
+
+.namber{
+    color: white;
+    background-color: green;
+    border: none;
+    margin-right:5px ;
+    padding-left: 10px;
+    padding-right: 10px;
+    cursor: pointer;
+    margin-top: 10px;
+    transition: 1s;
+}
+.namber:hover{
+    padding-left:  20px;
+    padding-right: 20px;
+}

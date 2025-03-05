@@ -84,3 +84,39 @@
     border-radius: 10px;
     padding: 10px 15px;
 }
+/*8e*/
+
+.h1-uber{
+    font-weight: 300;
+    font-family: arial;
+}
+.loc, 
+.des{
+    display: block;
+    font-size: 15px;
+    width: 300px;
+    padding: 10px;
+    background-color: rgba(220, 220, 220, 0.392);
+  border: none;
+  border-radius: 5px;
+  margin-top:10px;
+}
+
+.now,
+.later{
+    font-family: arial;
+    padding: 10px 15px;
+    margin-top: 20px;
+    margin-right: 10px;
+    font-size: 12px;
+}
+.now{
+    background-color: black;
+    color: white;
+    border: none;
+}
+
+.later{
+    background-color: rgba(220, 220, 220, 0.392);
+    border: none;
+}

@@ -1,0 +1,27 @@
+.img1, 
+.img2{
+    width: 300px;
+}
+
+.youtube-div1,
+.youtube-div2{
+   width: 300px;
+   border: 2px solid red;
+   display: inline-block;
+   margin-right: 10px;
+}
+.youtube-div2{
+    vertical-align: top;
+}
+.text-name1, 
+.text-name2{
+ font-family: arial;
+ font-weight: bold;
+}
+.canel-name1,
+.canel-name2{
+   color: rgb(99, 99, 99);
+   font-family: arial;
+   font-size: 12px;
+   font-weight: 300;
+}

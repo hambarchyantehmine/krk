@@ -1,0 +1,66 @@
+/*9e*/
+.div3{
+    width: 300px;
+    border: 2px solid rgba(135, 135, 135, 0.636)(148, 148, 148);
+    padding: 20px;
+    display: flex;
+  box-shadow: 2px 2px 5px  grey;
+  border-radius:10px;
+}
+.img-3{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+.input-3{
+    border: none;
+
+}
+.button-3{
+    margin-top: 10px;
+        height:40px ;
+        background-color: rgb(0, 149, 242);
+        border: none;
+        color: white;
+        border-radius: 20px;
+        padding: 5px 20px;
+}
+/*9f*/
+/*9g*/
+.div-4{
+    width: 200px;
+    height:300px ;
+    display: inline-block;
+    border:none;
+    box-shadow: 3px 3px 5px grey ;
+    margin-top: 20px;
+}
+.img-4{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    object-position: left;
+}
+.text-div{
+    padding: 10px;
+}
+.h1-4{
+    font-size: 20px;
+    margin: 0;
+ font-family: arial;
+}
+.p-4{
+    margin: 0;
+   color: grey;
+   font-family: arial;
+   font-size: 12px;
+}
+.button-4{
+    margin-top: 10px;
+    padding:5px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(25, 127, 251);
+    color: white;
+
+}
